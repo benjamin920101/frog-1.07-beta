@@ -1,0 +1,51 @@
+Summary for ./frog-1.07-beta.jar
+Decompiled with CFR 0.152
+
+
+dev.idhammai.c.r.O.Y.e
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+
+
+dev.idhammai.c.r.q.A.t
+----------------------------
+
+<init>(net.minecraft.class_2824$class_5907[] )
+  Ignored method signature, as it can't be verified against descriptor
+
+
+dev.idhammai.c.r.q.N.z.G
+----------------------------
+
+<init>(dev.idhammai.c.r.q.N.z.z java.util.concurrent.Callable java.util.function.BooleanSupplier )
+  Ignored method signature, as it can't be verified against descriptor
+
+
+dev.idhammai.c.y.u.C.M
+----------------------------
+
+<init>(dev.idhammai.c.y.u.C.Q java.lang.String )
+  Ignored method signature, as it can't be verified against descriptor
+
+
+dev.idhammai.c.y.u.C.O
+----------------------------
+
+<init>(dev.idhammai.c.y.u.C.Q java.lang.String )
+  Ignored method signature, as it can't be verified against descriptor
+
+
+dev.idhammai.c.y.u.C.S
+----------------------------
+
+<init>(dev.idhammai.c.y.u.C.Q java.lang.String )
+  Ignored method signature, as it can't be verified against descriptor
+
+
+dev.idhammai.c.y.u.C.z
+----------------------------
+
+<init>(dev.idhammai.c.y.u.C.Q java.lang.String java.lang.String )
+  Ignored method signature, as it can't be verified against descriptor
