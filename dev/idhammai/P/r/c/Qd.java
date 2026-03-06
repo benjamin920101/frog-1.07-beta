@@ -2,12 +2,12 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1297
- *  net.minecraft.class_1297$class_5529
+ *  net.minecraft.entity.Entity
+ *  net.minecraft.entity.Entity$RemovalReason
  */
 package dev.idhammai.P.r.c;
 
-import net.minecraft.class_1297;
+import net.minecraft.entity.Entity;
 
 public class Qd {
     public static final Qd o = new Qd();

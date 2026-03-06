@@ -2,12 +2,12 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_437
+ *  net.minecraft.client.gui.screen.Screen
  */
 package dev.idhammai.P.r.c;
 
 import dev.idhammai.P.r.L;
-import net.minecraft.class_437;
+import net.minecraft.client.gui.screen.Screen;
 
 public class b
 extends L {

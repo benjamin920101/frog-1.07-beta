@@ -2,9 +2,9 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_2246
- *  net.minecraft.class_2248
- *  net.minecraft.class_2338
+ *  net.minecraft.block.Blocks
+ *  net.minecraft.block.Block
+ *  net.minecraft.util.math.BlockPos
  */
 package dev.idhammai.c.r.q.A;
 
@@ -16,9 +16,9 @@ import dev.idhammai.P.r.c.v;
 import dev.idhammai.c.r.O.p.T;
 import dev.idhammai.c.r.q.A.A;
 import dev.idhammai.c.r.y;
-import net.minecraft.class_2246;
-import net.minecraft.class_2248;
-import net.minecraft.class_2338;
+import net.minecraft.block.Blocks;
+import net.minecraft.block.Block;
+import net.minecraft.util.math.BlockPos;
 
 public class C {
     boolean B;

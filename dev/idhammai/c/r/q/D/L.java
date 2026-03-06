@@ -2,7 +2,7 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_243
+ *  net.minecraft.util.math.Vec3d
  */
 package dev.idhammai.c.r.q.D;
 
@@ -13,7 +13,7 @@ import dev.idhammai.c.r.q.D.X;
 import dev.idhammai.c.r.q.D.k;
 import dev.idhammai.c.r.q.D.m;
 import dev.idhammai.c.r.q.D.v;
-import net.minecraft.class_243;
+import net.minecraft.util.math.Vec3d;
 
 public abstract sealed class L
 extends Enum<L>

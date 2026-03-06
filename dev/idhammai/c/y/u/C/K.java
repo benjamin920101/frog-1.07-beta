@@ -2,7 +2,7 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_332
+ *  net.minecraft.client.gui.DrawContext
  *  org.joml.Matrix4f
  *  org.joml.Matrix4fc
  */
@@ -26,7 +26,7 @@ import dev.idhammai.p.J.n;
 import java.awt.Color;
 import java.util.ArrayList;
 import java.util.List;
-import net.minecraft.class_332;
+import net.minecraft.client.gui.DrawContext;
 import org.joml.Matrix4f;
 import org.joml.Matrix4fc;
 

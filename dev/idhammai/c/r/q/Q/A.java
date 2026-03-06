@@ -2,16 +2,16 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_2547
- *  net.minecraft.class_2596
+ *  net.minecraft.network.listener.PacketListener
+ *  net.minecraft.network.packet.Packet
  */
 package dev.idhammai.c.r.q.Q;
 
 import dev.idhammai.P.A.A.h;
 import dev.idhammai.P.A.J;
 import dev.idhammai.c.r.q.Q.D;
-import net.minecraft.class_2547;
-import net.minecraft.class_2596;
+import net.minecraft.network.listener.PacketListener;
+import net.minecraft.network.packet.Packet;
 
 class A {
     final class_2596 c;

@@ -3,12 +3,12 @@
  * 
  * Could not load the following classes:
  *  com.mojang.blaze3d.systems.RenderSystem
- *  net.minecraft.class_276
+ *  net.minecraft.client.gl.Framebuffer
  */
 package dev.idhammai.p.J;
 
 import com.mojang.blaze3d.systems.RenderSystem;
-import net.minecraft.class_276;
+import net.minecraft.client.gl.Framebuffer;
 
 public class g
 extends class_276 {

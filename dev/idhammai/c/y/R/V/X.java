@@ -2,9 +2,9 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_124
- *  net.minecraft.class_332
- *  net.minecraft.class_3675
+ *  net.minecraft.util.Formatting
+ *  net.minecraft.client.gui.DrawContext
+ *  net.minecraft.client.util.InputUtil
  */
 package dev.idhammai.c.y.R.V;
 
@@ -15,9 +15,9 @@ import dev.idhammai.c.y.R.V.O;
 import dev.idhammai.c.y.R.V.T;
 import dev.idhammai.c.y.u.C.K;
 import dev.idhammai.c.y.u.I.t;
-import net.minecraft.class_124;
-import net.minecraft.class_332;
-import net.minecraft.class_3675;
+import net.minecraft.util.Formatting;
+import net.minecraft.client.gui.DrawContext;
+import net.minecraft.client.util.InputUtil;
 
 public class X
 extends O {

@@ -2,9 +2,9 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1297
- *  net.minecraft.class_1657
- *  net.minecraft.class_2338
+ *  net.minecraft.entity.Entity
+ *  net.minecraft.entity.player.PlayerEntity
+ *  net.minecraft.util.math.BlockPos
  */
 package dev.idhammai.p.J;
 
@@ -12,9 +12,9 @@ import dev.idhammai.P.A.A.d;
 import dev.idhammai.P.A.A.h;
 import dev.idhammai.P.A.J;
 import dev.idhammai.c.r.q.n.S;
-import net.minecraft.class_1297;
-import net.minecraft.class_1657;
-import net.minecraft.class_2338;
+import net.minecraft.entity.Entity;
+import net.minecraft.entity.player.PlayerEntity;
+import net.minecraft.util.math.BlockPos;
 
 public class U {
     public class_2338 T;

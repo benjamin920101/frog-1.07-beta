@@ -2,11 +2,11 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1309
+ *  net.minecraft.entity.LivingEntity
  */
 package dev.idhammai.P.r.c;
 
-import net.minecraft.class_1309;
+import net.minecraft.entity.LivingEntity;
 
 public class U {
     private static final U W = new U();

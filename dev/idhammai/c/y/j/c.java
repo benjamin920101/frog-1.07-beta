@@ -2,14 +2,14 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1074
- *  net.minecraft.class_2561
- *  net.minecraft.class_310
- *  net.minecraft.class_332
- *  net.minecraft.class_429
- *  net.minecraft.class_437
- *  net.minecraft.class_500
- *  net.minecraft.class_526
+ *  net.minecraft.client.resource.language.I18n
+ *  net.minecraft.text.Text
+ *  net.minecraft.client.MinecraftClient
+ *  net.minecraft.client.gui.DrawContext
+ *  net.minecraft.client.gui.screen.option.OptionsScreen
+ *  net.minecraft.client.gui.screen.Screen
+ *  net.minecraft.client.gui.screen.multiplayer.MultiplayerScreen
+ *  net.minecraft.client.gui.screen.world.SelectWorldScreen
  */
 package dev.idhammai.c.y.j;
 
@@ -19,14 +19,14 @@ import dev.idhammai.p.J.n;
 import java.awt.Color;
 import java.util.ArrayList;
 import java.util.List;
-import net.minecraft.class_1074;
-import net.minecraft.class_2561;
-import net.minecraft.class_310;
-import net.minecraft.class_332;
-import net.minecraft.class_429;
-import net.minecraft.class_437;
-import net.minecraft.class_500;
-import net.minecraft.class_526;
+import net.minecraft.client.resource.language.I18n;
+import net.minecraft.text.Text;
+import net.minecraft.client.MinecraftClient;
+import net.minecraft.client.gui.DrawContext;
+import net.minecraft.client.gui.screen.option.OptionsScreen;
+import net.minecraft.client.gui.screen.Screen;
+import net.minecraft.client.gui.screen.multiplayer.MultiplayerScreen;
+import net.minecraft.client.gui.screen.world.SelectWorldScreen;
 
 public class c
 extends class_437 {

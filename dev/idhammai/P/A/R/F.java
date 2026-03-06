@@ -2,15 +2,15 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_2248
- *  net.minecraft.class_2338
+ *  net.minecraft.block.Block
+ *  net.minecraft.util.math.BlockPos
  */
 package dev.idhammai.P.A.R;
 
 import dev.idhammai.P.A.J;
 import dev.idhammai.c.r.q.N.t;
-import net.minecraft.class_2248;
-import net.minecraft.class_2338;
+import net.minecraft.block.Block;
+import net.minecraft.util.math.BlockPos;
 
 public class F
 implements J {

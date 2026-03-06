@@ -2,13 +2,13 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_243
+ *  net.minecraft.util.math.Vec3d
  */
 package dev.idhammai.c.r.q.D;
 
 import dev.idhammai.c.r.q.D.L;
 import java.util.Random;
-import net.minecraft.class_243;
+import net.minecraft.util.math.Vec3d;
 
 final class k
 extends L {

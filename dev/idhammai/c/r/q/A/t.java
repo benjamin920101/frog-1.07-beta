@@ -2,16 +2,16 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1268
- *  net.minecraft.class_243
- *  net.minecraft.class_2824$class_5907
- *  net.minecraft.class_2824$class_5908
+ *  net.minecraft.util.Hand
+ *  net.minecraft.util.math.Vec3d
+ *  net.minecraft.network.packet.c2s.play.PlayerInteractEntityC2SPacket$InteractType
+ *  net.minecraft.network.packet.c2s.play.PlayerInteractEntityC2SPacket$Handler
  */
 package dev.idhammai.c.r.q.A;
 
-import net.minecraft.class_1268;
-import net.minecraft.class_243;
-import net.minecraft.class_2824;
+import net.minecraft.util.Hand;
+import net.minecraft.util.math.Vec3d;
+import net.minecraft.network.packet.c2s.play.PlayerInteractEntityC2SPacket;
 
 class t
 implements class_2824.class_5908 {

@@ -2,7 +2,7 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_2338
+ *  net.minecraft.util.math.BlockPos
  */
 package dev.idhammai.c.r.q.x;
 
@@ -10,7 +10,7 @@ import dev.idhammai.P.A.A.h;
 import java.awt.Color;
 import java.lang.invoke.MethodHandle;
 import java.lang.runtime.ObjectMethods;
-import net.minecraft.class_2338;
+import net.minecraft.util.math.BlockPos;
 
 final class b
 extends Record {

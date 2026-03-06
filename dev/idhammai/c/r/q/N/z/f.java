@@ -2,14 +2,14 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1792
- *  net.minecraft.class_1799
- *  net.minecraft.class_1802
- *  net.minecraft.class_1935
- *  net.minecraft.class_2960
- *  net.minecraft.class_332
- *  net.minecraft.class_437
- *  net.minecraft.class_7923
+ *  net.minecraft.item.Item
+ *  net.minecraft.item.ItemStack
+ *  net.minecraft.item.Items
+ *  net.minecraft.item.ItemConvertible
+ *  net.minecraft.util.Identifier
+ *  net.minecraft.client.gui.DrawContext
+ *  net.minecraft.client.gui.screen.Screen
+ *  net.minecraft.registry.Registries
  */
 package dev.idhammai.c.r.q.N.z;
 
@@ -28,14 +28,14 @@ import dev.idhammai.p.J.n;
 import java.awt.Color;
 import java.util.ArrayList;
 import java.util.function.IntSupplier;
-import net.minecraft.class_1792;
-import net.minecraft.class_1799;
-import net.minecraft.class_1802;
-import net.minecraft.class_1935;
-import net.minecraft.class_2960;
-import net.minecraft.class_332;
-import net.minecraft.class_437;
-import net.minecraft.class_7923;
+import net.minecraft.item.Item;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.Items;
+import net.minecraft.item.ItemConvertible;
+import net.minecraft.util.Identifier;
+import net.minecraft.client.gui.DrawContext;
+import net.minecraft.client.gui.screen.Screen;
+import net.minecraft.registry.Registries;
 
 public class f
 extends T {

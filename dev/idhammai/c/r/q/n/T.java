@@ -2,11 +2,11 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1311
+ *  net.minecraft.entity.SpawnGroup
  */
 package dev.idhammai.c.r.q.n;
 
-import net.minecraft.class_1311;
+import net.minecraft.entity.SpawnGroup;
 
 class T {
     static final int[] r = new int[class_1311.values().length];

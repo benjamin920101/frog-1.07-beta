@@ -2,8 +2,8 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_332
- *  net.minecraft.class_3675
+ *  net.minecraft.client.gui.DrawContext
+ *  net.minecraft.client.util.InputUtil
  */
 package dev.idhammai.c.y.u.K;
 
@@ -18,8 +18,8 @@ import dev.idhammai.c.y.u.C.K;
 import dev.idhammai.c.y.u.K.U;
 import java.util.ArrayList;
 import java.util.Comparator;
-import net.minecraft.class_332;
-import net.minecraft.class_3675;
+import net.minecraft.client.gui.DrawContext;
+import net.minecraft.client.util.InputUtil;
 
 public final class t {
     private final dev.idhammai.c.y.u.I.t A;

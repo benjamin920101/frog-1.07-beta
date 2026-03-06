@@ -3,9 +3,9 @@
  * 
  * Could not load the following classes:
  *  com.mojang.blaze3d.systems.RenderSystem
- *  net.minecraft.class_332
- *  net.minecraft.class_3675
- *  net.minecraft.class_7833
+ *  net.minecraft.client.gui.DrawContext
+ *  net.minecraft.client.util.InputUtil
+ *  net.minecraft.util.math.RotationAxis
  */
 package dev.idhammai.c.y.R.V;
 
@@ -41,9 +41,9 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.function.BooleanSupplier;
-import net.minecraft.class_332;
-import net.minecraft.class_3675;
-import net.minecraft.class_7833;
+import net.minecraft.client.gui.DrawContext;
+import net.minecraft.client.util.InputUtil;
+import net.minecraft.util.math.RotationAxis;
 
 /*
  * Duplicate member names - consider using --renamedupmembers true

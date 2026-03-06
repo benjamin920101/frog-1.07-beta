@@ -2,12 +2,12 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1297
- *  net.minecraft.class_1657
- *  net.minecraft.class_1937
- *  net.minecraft.class_2596
- *  net.minecraft.class_2663
- *  net.minecraft.class_742
+ *  net.minecraft.entity.Entity
+ *  net.minecraft.entity.player.PlayerEntity
+ *  net.minecraft.world.World
+ *  net.minecraft.network.packet.Packet
+ *  net.minecraft.network.packet.s2c.play.EntityStatusS2CPacket
+ *  net.minecraft.client.network.AbstractClientPlayerEntity
  */
 package dev.idhammai.p.J;
 
@@ -22,12 +22,12 @@ import dev.idhammai.c.r.y;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-import net.minecraft.class_1297;
-import net.minecraft.class_1657;
-import net.minecraft.class_1937;
-import net.minecraft.class_2596;
-import net.minecraft.class_2663;
-import net.minecraft.class_742;
+import net.minecraft.entity.Entity;
+import net.minecraft.entity.player.PlayerEntity;
+import net.minecraft.world.World;
+import net.minecraft.network.packet.Packet;
+import net.minecraft.network.packet.s2c.play.EntityStatusS2CPacket;
+import net.minecraft.client.network.AbstractClientPlayerEntity;
 
 /*
  * Duplicate member names - consider using --renamedupmembers true

@@ -2,14 +2,14 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_2338
- *  net.minecraft.class_2350
+ *  net.minecraft.util.math.BlockPos
+ *  net.minecraft.util.math.Direction
  */
 package dev.idhammai.P.r.c;
 
 import dev.idhammai.P.r.L;
-import net.minecraft.class_2338;
-import net.minecraft.class_2350;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.math.Direction;
 
 public class z
 extends L {

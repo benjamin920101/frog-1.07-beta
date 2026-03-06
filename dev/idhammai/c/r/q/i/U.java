@@ -2,8 +2,8 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1291
- *  net.minecraft.class_1294
+ *  net.minecraft.entity.effect.StatusEffect
+ *  net.minecraft.entity.effect.StatusEffects
  */
 package dev.idhammai.c.r.q.i;
 
@@ -13,8 +13,8 @@ import dev.idhammai.P.r.K.r;
 import dev.idhammai.P.r.c.v;
 import dev.idhammai.c.r.q.i.h;
 import dev.idhammai.c.r.y;
-import net.minecraft.class_1291;
-import net.minecraft.class_1294;
+import net.minecraft.entity.effect.StatusEffect;
+import net.minecraft.entity.effect.StatusEffects;
 
 public class U {
     final h m;

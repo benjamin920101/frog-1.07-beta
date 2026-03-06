@@ -2,7 +2,7 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_2246
+ *  net.minecraft.block.Blocks
  *  org.apache.commons.io.IOUtils
  */
 package dev.idhammai.p.J;
@@ -21,7 +21,7 @@ import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
-import net.minecraft.class_2246;
+import net.minecraft.block.Blocks;
 import org.apache.commons.io.IOUtils;
 
 public class V

@@ -2,12 +2,12 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1671
+ *  net.minecraft.entity.projectile.FireworkRocketEntity
  */
 package dev.idhammai.P.r.c;
 
 import dev.idhammai.P.r.L;
-import net.minecraft.class_1671;
+import net.minecraft.entity.projectile.FireworkRocketEntity;
 
 public class d
 extends L {

@@ -2,12 +2,12 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_2246
- *  net.minecraft.class_2248
- *  net.minecraft.class_2338
- *  net.minecraft.class_2350
- *  net.minecraft.class_238
- *  net.minecraft.class_3532
+ *  net.minecraft.block.Blocks
+ *  net.minecraft.block.Block
+ *  net.minecraft.util.math.BlockPos
+ *  net.minecraft.util.math.Direction
+ *  net.minecraft.util.math.Box
+ *  net.minecraft.util.math.MathHelper
  */
 package dev.idhammai.p.J;
 
@@ -15,12 +15,12 @@ import dev.idhammai.Frog;
 import dev.idhammai.P.A.J;
 import dev.idhammai.P.A.l.M;
 import dev.idhammai.c.r.q.A.W;
-import net.minecraft.class_2246;
-import net.minecraft.class_2248;
-import net.minecraft.class_2338;
-import net.minecraft.class_2350;
-import net.minecraft.class_238;
-import net.minecraft.class_3532;
+import net.minecraft.block.Blocks;
+import net.minecraft.block.Block;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.math.Direction;
+import net.minecraft.util.math.Box;
+import net.minecraft.util.math.MathHelper;
 
 public class C
 implements J {

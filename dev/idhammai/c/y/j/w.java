@@ -2,17 +2,17 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_310
- *  net.minecraft.class_332
- *  net.minecraft.class_437
+ *  net.minecraft.client.MinecraftClient
+ *  net.minecraft.client.gui.DrawContext
+ *  net.minecraft.client.gui.screen.Screen
  */
 package dev.idhammai.c.y.j;
 
 import dev.idhammai.P.A.S.o;
 import java.awt.Color;
-import net.minecraft.class_310;
-import net.minecraft.class_332;
-import net.minecraft.class_437;
+import net.minecraft.client.MinecraftClient;
+import net.minecraft.client.gui.DrawContext;
+import net.minecraft.client.gui.screen.Screen;
 
 public class w {
     private static boolean W = false;

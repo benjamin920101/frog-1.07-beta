@@ -2,7 +2,7 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_332
+ *  net.minecraft.client.gui.DrawContext
  */
 package dev.idhammai.c.y.u.C;
 
@@ -26,7 +26,7 @@ import dev.idhammai.c.y.u.I.t;
 import dev.idhammai.p.J.n;
 import java.awt.Color;
 import java.util.ArrayList;
-import net.minecraft.class_332;
+import net.minecraft.client.gui.DrawContext;
 
 public final class Q {
     private final t H;

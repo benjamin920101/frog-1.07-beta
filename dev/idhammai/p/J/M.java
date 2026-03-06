@@ -2,10 +2,10 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1291
- *  net.minecraft.class_1293
- *  net.minecraft.class_332
- *  net.minecraft.class_4587
+ *  net.minecraft.entity.effect.StatusEffect
+ *  net.minecraft.entity.effect.StatusEffectInstance
+ *  net.minecraft.client.gui.DrawContext
+ *  net.minecraft.client.util.math.MatrixStack
  *  org.lwjgl.opengl.GL11
  */
 package dev.idhammai.p.J;
@@ -64,10 +64,10 @@ import dev.idhammai.p.J.n;
 import java.awt.Color;
 import java.util.ArrayList;
 import java.util.Comparator;
-import net.minecraft.class_1291;
-import net.minecraft.class_1293;
-import net.minecraft.class_332;
-import net.minecraft.class_4587;
+import net.minecraft.entity.effect.StatusEffect;
+import net.minecraft.entity.effect.StatusEffectInstance;
+import net.minecraft.client.gui.DrawContext;
+import net.minecraft.client.util.math.MatrixStack;
 import org.lwjgl.opengl.GL11;
 
 public class M

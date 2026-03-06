@@ -3,10 +3,10 @@
  * 
  * Could not load the following classes:
  *  com.mojang.blaze3d.systems.RenderSystem
- *  net.minecraft.class_243
- *  net.minecraft.class_2561
- *  net.minecraft.class_332
- *  net.minecraft.class_437
+ *  net.minecraft.util.math.Vec3d
+ *  net.minecraft.text.Text
+ *  net.minecraft.client.gui.DrawContext
+ *  net.minecraft.client.gui.screen.Screen
  */
 package dev.idhammai.c.y.u.I;
 
@@ -40,10 +40,10 @@ import dev.idhammai.p.R;
 import java.awt.Color;
 import java.util.ArrayList;
 import java.util.function.Consumer;
-import net.minecraft.class_243;
-import net.minecraft.class_2561;
-import net.minecraft.class_332;
-import net.minecraft.class_437;
+import net.minecraft.util.math.Vec3d;
+import net.minecraft.text.Text;
+import net.minecraft.client.gui.DrawContext;
+import net.minecraft.client.gui.screen.Screen;
 
 /*
  * Duplicate member names - consider using --renamedupmembers true

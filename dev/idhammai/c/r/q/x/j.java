@@ -2,9 +2,9 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1799
- *  net.minecraft.class_327
- *  net.minecraft.class_332
+ *  net.minecraft.item.ItemStack
+ *  net.minecraft.client.font.TextRenderer
+ *  net.minecraft.client.gui.DrawContext
  */
 package dev.idhammai.c.r.q.x;
 
@@ -12,9 +12,9 @@ import dev.idhammai.P.A.A.h;
 import dev.idhammai.P.A.J;
 import dev.idhammai.c.r.q.x.D;
 import java.util.Objects;
-import net.minecraft.class_1799;
-import net.minecraft.class_327;
-import net.minecraft.class_332;
+import net.minecraft.item.ItemStack;
+import net.minecraft.client.font.TextRenderer;
+import net.minecraft.client.gui.DrawContext;
 
 class j {
     final class_1799 c;

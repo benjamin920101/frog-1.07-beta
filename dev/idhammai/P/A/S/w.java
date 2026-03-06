@@ -3,15 +3,15 @@
  * 
  * Could not load the following classes:
  *  com.mojang.blaze3d.systems.RenderSystem
- *  net.minecraft.class_276
- *  net.minecraft.class_310
+ *  net.minecraft.client.gl.Framebuffer
+ *  net.minecraft.client.MinecraftClient
  *  org.lwjgl.opengl.GL11
  */
 package dev.idhammai.P.A.S;
 
 import com.mojang.blaze3d.systems.RenderSystem;
-import net.minecraft.class_276;
-import net.minecraft.class_310;
+import net.minecraft.client.gl.Framebuffer;
+import net.minecraft.client.MinecraftClient;
 import org.lwjgl.opengl.GL11;
 
 public class w {

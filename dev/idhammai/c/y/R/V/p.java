@@ -2,10 +2,10 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_310
- *  net.minecraft.class_332
- *  net.minecraft.class_3675
- *  net.minecraft.class_3728
+ *  net.minecraft.client.MinecraftClient
+ *  net.minecraft.client.gui.DrawContext
+ *  net.minecraft.client.util.InputUtil
+ *  net.minecraft.client.util.SelectionManager
  *  org.joml.Matrix4f
  *  org.joml.Matrix4fc
  *  org.lwjgl.glfw.GLFW
@@ -24,10 +24,10 @@ import dev.idhammai.c.y.R.V.i;
 import dev.idhammai.c.y.u.C.K;
 import dev.idhammai.c.y.u.I.t;
 import java.awt.Color;
-import net.minecraft.class_310;
-import net.minecraft.class_332;
-import net.minecraft.class_3675;
-import net.minecraft.class_3728;
+import net.minecraft.client.MinecraftClient;
+import net.minecraft.client.gui.DrawContext;
+import net.minecraft.client.util.InputUtil;
+import net.minecraft.client.util.SelectionManager;
 import org.joml.Matrix4f;
 import org.joml.Matrix4fc;
 import org.lwjgl.glfw.GLFW;

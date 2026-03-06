@@ -2,11 +2,11 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1297
- *  net.minecraft.class_1657
- *  net.minecraft.class_2338
- *  net.minecraft.class_238
- *  net.minecraft.class_243
+ *  net.minecraft.entity.Entity
+ *  net.minecraft.entity.player.PlayerEntity
+ *  net.minecraft.util.math.BlockPos
+ *  net.minecraft.util.math.Box
+ *  net.minecraft.util.math.Vec3d
  */
 package dev.idhammai.P.A.A;
 
@@ -16,11 +16,11 @@ import dev.idhammai.P.A.l.k;
 import dev.idhammai.asm.accessors.IEntity;
 import dev.idhammai.c.r.q.N.X;
 import dev.idhammai.c.r.q.N.x;
-import net.minecraft.class_1297;
-import net.minecraft.class_1657;
-import net.minecraft.class_2338;
-import net.minecraft.class_238;
-import net.minecraft.class_243;
+import net.minecraft.entity.Entity;
+import net.minecraft.entity.player.PlayerEntity;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.math.Box;
+import net.minecraft.util.math.Vec3d;
 
 public class p
 implements J {

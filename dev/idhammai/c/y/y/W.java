@@ -4,12 +4,12 @@
  * Could not load the following classes:
  *  com.mojang.blaze3d.systems.RenderSystem
  *  it.unimi.dsi.fastutil.chars.Char2ObjectArrayMap
- *  net.minecraft.class_1011
- *  net.minecraft.class_1011$class_1012
- *  net.minecraft.class_1043
- *  net.minecraft.class_1044
- *  net.minecraft.class_2960
- *  net.minecraft.class_310
+ *  net.minecraft.client.texture.NativeImage
+ *  net.minecraft.client.texture.NativeImage$Format
+ *  net.minecraft.client.texture.NativeImageBackedTexture
+ *  net.minecraft.client.texture.AbstractTexture
+ *  net.minecraft.util.Identifier
+ *  net.minecraft.client.MinecraftClient
  */
 package dev.idhammai.c.y.y;
 
@@ -30,11 +30,11 @@ import java.awt.image.ColorModel;
 import java.awt.image.WritableRaster;
 import java.util.ArrayList;
 import java.util.Objects;
-import net.minecraft.class_1011;
-import net.minecraft.class_1043;
-import net.minecraft.class_1044;
-import net.minecraft.class_2960;
-import net.minecraft.class_310;
+import net.minecraft.client.texture.NativeImage;
+import net.minecraft.client.texture.NativeImageBackedTexture;
+import net.minecraft.client.texture.AbstractTexture;
+import net.minecraft.util.Identifier;
+import net.minecraft.client.MinecraftClient;
 
 class W {
     final char a;

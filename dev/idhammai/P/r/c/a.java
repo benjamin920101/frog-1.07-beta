@@ -2,12 +2,12 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_2586
+ *  net.minecraft.block.entity.BlockEntity
  */
 package dev.idhammai.P.r.c;
 
 import dev.idhammai.P.r.L;
-import net.minecraft.class_2586;
+import net.minecraft.block.entity.BlockEntity;
 
 public class a
 extends L {

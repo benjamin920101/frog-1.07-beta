@@ -2,11 +2,11 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1657
+ *  net.minecraft.entity.player.PlayerEntity
  */
 package dev.idhammai.P.r.c;
 
-import net.minecraft.class_1657;
+import net.minecraft.entity.player.PlayerEntity;
 
 public class Q4 {
     private static final Q4 H = new Q4();

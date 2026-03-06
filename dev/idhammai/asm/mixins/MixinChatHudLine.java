@@ -2,7 +2,7 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_303
+ *  net.minecraft.client.gui.hud.ChatHudLine
  *  org.spongepowered.asm.mixin.Mixin
  *  org.spongepowered.asm.mixin.Unique
  */
@@ -10,7 +10,7 @@ package dev.idhammai.asm.mixins;
 
 import dev.idhammai.P.A.A.d;
 import dev.idhammai.P.V.D;
-import net.minecraft.class_303;
+import net.minecraft.client.gui.hud.ChatHudLine;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Unique;
 

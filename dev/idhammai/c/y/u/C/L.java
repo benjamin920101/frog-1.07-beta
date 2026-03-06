@@ -2,8 +2,8 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_332
- *  net.minecraft.class_3544
+ *  net.minecraft.client.gui.DrawContext
+ *  net.minecraft.util.StringHelper
  */
 package dev.idhammai.c.y.u.C;
 
@@ -20,8 +20,8 @@ import dev.idhammai.c.y.u.I.f;
 import dev.idhammai.c.y.u.I.t;
 import dev.idhammai.p.J.n;
 import java.awt.Color;
-import net.minecraft.class_332;
-import net.minecraft.class_3544;
+import net.minecraft.client.gui.DrawContext;
+import net.minecraft.util.StringHelper;
 
 public final class L {
     private final t M;

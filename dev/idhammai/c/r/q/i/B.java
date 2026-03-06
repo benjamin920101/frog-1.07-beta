@@ -2,11 +2,11 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1304
+ *  net.minecraft.entity.EquipmentSlot
  */
 package dev.idhammai.c.r.q.i;
 
-import net.minecraft.class_1304;
+import net.minecraft.entity.EquipmentSlot;
 
 class B {
     static final int[] j = new int[class_1304.values().length];

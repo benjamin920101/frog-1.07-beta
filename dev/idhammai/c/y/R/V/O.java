@@ -2,7 +2,7 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_332
+ *  net.minecraft.client.gui.DrawContext
  */
 package dev.idhammai.c.y.R.V;
 
@@ -15,7 +15,7 @@ import dev.idhammai.c.y.R.C;
 import dev.idhammai.c.y.u.C.K;
 import dev.idhammai.c.y.u.I.t;
 import java.awt.Color;
-import net.minecraft.class_332;
+import net.minecraft.client.gui.DrawContext;
 
 public class O
 extends C {

@@ -2,11 +2,11 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1267
+ *  net.minecraft.world.Difficulty
  */
 package dev.idhammai.P.A.A;
 
-import net.minecraft.class_1267;
+import net.minecraft.world.Difficulty;
 
 class T {
     static final int[] j = new int[class_1267.values().length];

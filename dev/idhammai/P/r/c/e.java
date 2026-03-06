@@ -2,16 +2,16 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1309
- *  net.minecraft.class_243
- *  net.minecraft.class_3532
+ *  net.minecraft.entity.LivingEntity
+ *  net.minecraft.util.math.Vec3d
+ *  net.minecraft.util.math.MathHelper
  */
 package dev.idhammai.P.r.c;
 
 import dev.idhammai.P.r.L;
-import net.minecraft.class_1309;
-import net.minecraft.class_243;
-import net.minecraft.class_3532;
+import net.minecraft.entity.LivingEntity;
+import net.minecraft.util.math.Vec3d;
+import net.minecraft.util.math.MathHelper;
 
 public class e
 extends L {

@@ -2,11 +2,11 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_310
- *  net.minecraft.class_332
- *  net.minecraft.class_3544
- *  net.minecraft.class_3675
- *  net.minecraft.class_3728
+ *  net.minecraft.client.MinecraftClient
+ *  net.minecraft.client.gui.DrawContext
+ *  net.minecraft.util.StringHelper
+ *  net.minecraft.client.util.InputUtil
+ *  net.minecraft.client.util.SelectionManager
  */
 package dev.idhammai.c.y.u.m;
 
@@ -23,11 +23,11 @@ import dev.idhammai.c.y.u.I.t;
 import dev.idhammai.p.J.n;
 import java.awt.Color;
 import java.util.function.Consumer;
-import net.minecraft.class_310;
-import net.minecraft.class_332;
-import net.minecraft.class_3544;
-import net.minecraft.class_3675;
-import net.minecraft.class_3728;
+import net.minecraft.client.MinecraftClient;
+import net.minecraft.client.gui.DrawContext;
+import net.minecraft.util.StringHelper;
+import net.minecraft.client.util.InputUtil;
+import net.minecraft.client.util.SelectionManager;
 
 public final class l {
     private final t D;

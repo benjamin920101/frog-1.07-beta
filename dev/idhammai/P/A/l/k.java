@@ -2,15 +2,15 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_2338
- *  net.minecraft.class_243
- *  net.minecraft.class_3532
+ *  net.minecraft.util.math.BlockPos
+ *  net.minecraft.util.math.Vec3d
+ *  net.minecraft.util.math.MathHelper
  */
 package dev.idhammai.P.A.l;
 
-import net.minecraft.class_2338;
-import net.minecraft.class_243;
-import net.minecraft.class_3532;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.math.Vec3d;
+import net.minecraft.util.math.MathHelper;
 
 public class k
 extends class_2338 {

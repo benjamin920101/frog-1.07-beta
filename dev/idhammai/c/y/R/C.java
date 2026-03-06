@@ -2,11 +2,11 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1109
- *  net.minecraft.class_1113
- *  net.minecraft.class_332
- *  net.minecraft.class_3417
- *  net.minecraft.class_6880
+ *  net.minecraft.client.sound.PositionedSoundInstance
+ *  net.minecraft.client.sound.SoundInstance
+ *  net.minecraft.client.gui.DrawContext
+ *  net.minecraft.sound.SoundEvents
+ *  net.minecraft.registry.entry.RegistryEntry
  *  org.joml.Matrix4f
  *  org.joml.Matrix4fc
  */
@@ -20,11 +20,11 @@ import dev.idhammai.c.r.q.N.P;
 import dev.idhammai.p.J.n;
 import java.awt.Color;
 import java.util.Objects;
-import net.minecraft.class_1109;
-import net.minecraft.class_1113;
-import net.minecraft.class_332;
-import net.minecraft.class_3417;
-import net.minecraft.class_6880;
+import net.minecraft.client.sound.PositionedSoundInstance;
+import net.minecraft.client.sound.SoundInstance;
+import net.minecraft.client.gui.DrawContext;
+import net.minecraft.sound.SoundEvents;
+import net.minecraft.registry.entry.RegistryEntry;
 import org.joml.Matrix4f;
 import org.joml.Matrix4fc;
 

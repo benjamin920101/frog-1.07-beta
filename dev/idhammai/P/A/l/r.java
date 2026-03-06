@@ -2,12 +2,12 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_2350
+ *  net.minecraft.util.math.Direction
  */
 package dev.idhammai.P.A.l;
 
 import dev.idhammai.c.r.O.p.G;
-import net.minecraft.class_2350;
+import net.minecraft.util.math.Direction;
 
 class r {
     static final int[] Y;

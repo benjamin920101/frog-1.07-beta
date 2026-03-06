@@ -2,15 +2,15 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1297
- *  net.minecraft.class_279
- *  net.minecraft.class_4184
- *  net.minecraft.class_4587
- *  net.minecraft.class_4597
- *  net.minecraft.class_757
- *  net.minecraft.class_761
- *  net.minecraft.class_765
- *  net.minecraft.class_9779
+ *  net.minecraft.entity.Entity
+ *  net.minecraft.client.gl.PostEffectProcessor
+ *  net.minecraft.client.render.Camera
+ *  net.minecraft.client.util.math.MatrixStack
+ *  net.minecraft.client.render.VertexConsumerProvider
+ *  net.minecraft.client.render.GameRenderer
+ *  net.minecraft.client.render.WorldRenderer
+ *  net.minecraft.client.render.LightmapTextureManager
+ *  net.minecraft.client.render.RenderTickCounter
  *  org.joml.Matrix4f
  *  org.joml.Matrix4fc
  *  org.joml.Vector3f
@@ -32,15 +32,15 @@ import dev.idhammai.c.r.q.i.c;
 import dev.idhammai.c.r.q.n.F;
 import dev.idhammai.c.r.q.n.O;
 import dev.idhammai.p.J.u;
-import net.minecraft.class_1297;
-import net.minecraft.class_279;
-import net.minecraft.class_4184;
-import net.minecraft.class_4587;
-import net.minecraft.class_4597;
-import net.minecraft.class_757;
-import net.minecraft.class_761;
-import net.minecraft.class_765;
-import net.minecraft.class_9779;
+import net.minecraft.entity.Entity;
+import net.minecraft.client.gl.PostEffectProcessor;
+import net.minecraft.client.render.Camera;
+import net.minecraft.client.util.math.MatrixStack;
+import net.minecraft.client.render.VertexConsumerProvider;
+import net.minecraft.client.render.GameRenderer;
+import net.minecraft.client.render.WorldRenderer;
+import net.minecraft.client.render.LightmapTextureManager;
+import net.minecraft.client.render.RenderTickCounter;
 import org.joml.Matrix4f;
 import org.joml.Matrix4fc;
 import org.joml.Vector3f;

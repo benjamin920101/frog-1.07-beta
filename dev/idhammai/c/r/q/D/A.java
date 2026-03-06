@@ -2,11 +2,11 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_243
+ *  net.minecraft.util.math.Vec3d
  */
 package dev.idhammai.c.r.q.D;
 
-import net.minecraft.class_243;
+import net.minecraft.util.math.Vec3d;
 
 public class A
 extends class_243 {

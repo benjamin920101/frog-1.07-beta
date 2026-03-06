@@ -2,16 +2,16 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_2804
- *  net.minecraft.class_3560
+ *  net.minecraft.world.chunk.ChunkNibbleArray
+ *  net.minecraft.world.chunk.light.LightStorage
  *  org.spongepowered.asm.mixin.Mixin
  *  org.spongepowered.asm.mixin.injection.At
  *  org.spongepowered.asm.mixin.injection.Redirect
  */
 package dev.idhammai.asm.mixins;
 
-import net.minecraft.class_2804;
-import net.minecraft.class_3560;
+import net.minecraft.world.chunk.ChunkNibbleArray;
+import net.minecraft.world.chunk.light.LightStorage;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Redirect;

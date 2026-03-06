@@ -2,12 +2,12 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_2649
+ *  net.minecraft.network.packet.s2c.play.InventoryS2CPacket
  */
 package dev.idhammai.P.r.c;
 
 import dev.idhammai.P.r.L;
-import net.minecraft.class_2649;
+import net.minecraft.network.packet.s2c.play.InventoryS2CPacket;
 
 public class E
 extends L {

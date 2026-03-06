@@ -2,12 +2,12 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_156
- *  net.minecraft.class_2561
- *  net.minecraft.class_310
- *  net.minecraft.class_332
- *  net.minecraft.class_3532
- *  net.minecraft.class_425
+ *  net.minecraft.util.Util
+ *  net.minecraft.text.Text
+ *  net.minecraft.client.MinecraftClient
+ *  net.minecraft.client.gui.DrawContext
+ *  net.minecraft.util.math.MathHelper
+ *  net.minecraft.client.gui.screen.SplashOverlay
  *  org.spongepowered.asm.mixin.Mixin
  *  org.spongepowered.asm.mixin.Shadow
  *  org.spongepowered.asm.mixin.Unique
@@ -21,12 +21,12 @@ package dev.idhammai.asm.mixins;
 import dev.idhammai.c.y.y.i;
 import dev.idhammai.p.J.n;
 import java.awt.Color;
-import net.minecraft.class_156;
-import net.minecraft.class_2561;
-import net.minecraft.class_310;
-import net.minecraft.class_332;
-import net.minecraft.class_3532;
-import net.minecraft.class_425;
+import net.minecraft.util.Util;
+import net.minecraft.text.Text;
+import net.minecraft.client.MinecraftClient;
+import net.minecraft.client.gui.DrawContext;
+import net.minecraft.util.math.MathHelper;
+import net.minecraft.client.gui.screen.SplashOverlay;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Shadow;
 import org.spongepowered.asm.mixin.Unique;

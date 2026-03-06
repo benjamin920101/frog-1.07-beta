@@ -2,8 +2,8 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_630
- *  net.minecraft.class_630$class_628
+ *  net.minecraft.client.model.ModelPart
+ *  net.minecraft.client.model.ModelPart$Cuboid
  *  org.spongepowered.asm.mixin.Mixin
  *  org.spongepowered.asm.mixin.gen.Accessor
  */
@@ -11,7 +11,7 @@ package dev.idhammai.asm.accessors;
 
 import java.util.List;
 import java.util.Map;
-import net.minecraft.class_630;
+import net.minecraft.client.model.ModelPart;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.gen.Accessor;
 

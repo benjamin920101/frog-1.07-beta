@@ -2,7 +2,7 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_4587
+ *  net.minecraft.client.util.math.MatrixStack
  */
 package dev.idhammai.p.J;
 
@@ -10,7 +10,7 @@ import dev.idhammai.c.r.q.N.j;
 import dev.idhammai.c.y.y.i;
 import dev.idhammai.p.J.n;
 import java.awt.Font;
-import net.minecraft.class_4587;
+import net.minecraft.client.util.math.MatrixStack;
 
 class f
 extends i {

@@ -2,9 +2,9 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_124
- *  net.minecraft.class_309
- *  net.minecraft.class_333
+ *  net.minecraft.util.Formatting
+ *  net.minecraft.client.Keyboard
+ *  net.minecraft.client.util.NarratorManager
  *  org.spongepowered.asm.mixin.Mixin
  *  org.spongepowered.asm.mixin.injection.At
  *  org.spongepowered.asm.mixin.injection.Inject
@@ -17,9 +17,9 @@ import dev.idhammai.Frog;
 import dev.idhammai.P.A.J;
 import dev.idhammai.c.r.q.N.I;
 import dev.idhammai.p.J.S;
-import net.minecraft.class_124;
-import net.minecraft.class_309;
-import net.minecraft.class_333;
+import net.minecraft.util.Formatting;
+import net.minecraft.client.Keyboard;
+import net.minecraft.client.util.NarratorManager;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;

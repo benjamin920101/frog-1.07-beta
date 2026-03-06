@@ -2,15 +2,15 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_238
- *  net.minecraft.class_4587
+ *  net.minecraft.util.math.Box
+ *  net.minecraft.client.util.math.MatrixStack
  */
 package dev.idhammai.P.r.c;
 
 import dev.idhammai.P.A.S.K;
 import java.awt.Color;
-import net.minecraft.class_238;
-import net.minecraft.class_4587;
+import net.minecraft.util.math.Box;
+import net.minecraft.client.util.math.MatrixStack;
 
 public class R {
     private static final R a = new R();

@@ -2,9 +2,9 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1747
- *  net.minecraft.class_1750
- *  net.minecraft.class_2680
+ *  net.minecraft.item.BlockItem
+ *  net.minecraft.item.ItemPlacementContext
+ *  net.minecraft.block.BlockState
  *  org.jetbrains.annotations.NotNull
  *  org.spongepowered.asm.mixin.Mixin
  *  org.spongepowered.asm.mixin.injection.At
@@ -16,9 +16,9 @@ package dev.idhammai.asm.mixins;
 import dev.idhammai.Frog;
 import dev.idhammai.P.r.c.P;
 import dev.idhammai.c.r.y;
-import net.minecraft.class_1747;
-import net.minecraft.class_1750;
-import net.minecraft.class_2680;
+import net.minecraft.item.BlockItem;
+import net.minecraft.item.ItemPlacementContext;
+import net.minecraft.block.BlockState;
 import org.jetbrains.annotations.NotNull;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

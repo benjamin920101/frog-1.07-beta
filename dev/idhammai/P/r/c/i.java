@@ -2,13 +2,13 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_2596
+ *  net.minecraft.network.packet.Packet
  */
 package dev.idhammai.P.r.c;
 
 import dev.idhammai.P.r.O;
 import dev.idhammai.P.r.c.c;
-import net.minecraft.class_2596;
+import net.minecraft.network.packet.Packet;
 
 public class i
 extends c {

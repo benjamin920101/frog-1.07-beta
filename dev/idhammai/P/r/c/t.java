@@ -2,12 +2,12 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1113
+ *  net.minecraft.client.sound.SoundInstance
  */
 package dev.idhammai.P.r.c;
 
 import dev.idhammai.P.r.L;
-import net.minecraft.class_1113;
+import net.minecraft.client.sound.SoundInstance;
 
 public class t
 extends L {

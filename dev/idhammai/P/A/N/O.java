@@ -3,10 +3,10 @@
  * 
  * Could not load the following classes:
  *  com.mojang.authlib.GameProfile
- *  net.minecraft.class_1293
- *  net.minecraft.class_1297
- *  net.minecraft.class_1657
- *  net.minecraft.class_1937
+ *  net.minecraft.entity.effect.StatusEffectInstance
+ *  net.minecraft.entity.Entity
+ *  net.minecraft.entity.player.PlayerEntity
+ *  net.minecraft.world.World
  */
 package dev.idhammai.P.A.N;
 
@@ -15,10 +15,10 @@ import dev.idhammai.P.A.A.p;
 import dev.idhammai.P.A.J;
 import dev.idhammai.asm.accessors.ILivingEntity;
 import java.util.ArrayList;
-import net.minecraft.class_1293;
-import net.minecraft.class_1297;
-import net.minecraft.class_1657;
-import net.minecraft.class_1937;
+import net.minecraft.entity.effect.StatusEffectInstance;
+import net.minecraft.entity.Entity;
+import net.minecraft.entity.player.PlayerEntity;
+import net.minecraft.world.World;
 
 public class O
 extends class_1657 {

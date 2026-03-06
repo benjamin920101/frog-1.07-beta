@@ -2,7 +2,7 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1041
+ *  net.minecraft.client.util.Window
  *  org.lwjgl.glfw.GLFW
  *  org.lwjgl.opengl.GL11
  *  org.spongepowered.asm.mixin.Mixin
@@ -12,7 +12,7 @@
  */
 package dev.idhammai.asm.mixins;
 
-import net.minecraft.class_1041;
+import net.minecraft.client.util.Window;
 import org.lwjgl.glfw.GLFW;
 import org.lwjgl.opengl.GL11;
 import org.spongepowered.asm.mixin.Mixin;

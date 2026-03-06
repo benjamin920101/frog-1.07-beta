@@ -4,8 +4,8 @@
  * Could not load the following classes:
  *  net.fabricmc.fabric.api.client.rendering.v1.WorldRenderContext
  *  net.fabricmc.fabric.api.client.rendering.v1.WorldRenderEvents
- *  net.minecraft.class_2960
- *  net.minecraft.class_310
+ *  net.minecraft.util.Identifier
+ *  net.minecraft.client.MinecraftClient
  *  org.joml.Matrix4f
  *  org.joml.Matrix4fc
  *  org.joml.Vector3f
@@ -20,8 +20,8 @@ package dev.idhammai.p.J;
 import dev.idhammai.P.A.J;
 import net.fabricmc.fabric.api.client.rendering.v1.WorldRenderContext;
 import net.fabricmc.fabric.api.client.rendering.v1.WorldRenderEvents;
-import net.minecraft.class_2960;
-import net.minecraft.class_310;
+import net.minecraft.util.Identifier;
+import net.minecraft.client.MinecraftClient;
 import org.joml.Matrix4f;
 import org.joml.Matrix4fc;
 import org.joml.Vector3f;

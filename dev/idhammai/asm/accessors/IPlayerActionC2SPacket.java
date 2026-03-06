@@ -2,18 +2,18 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_2338
- *  net.minecraft.class_2350
- *  net.minecraft.class_2846
- *  net.minecraft.class_2846$class_2847
+ *  net.minecraft.util.math.BlockPos
+ *  net.minecraft.util.math.Direction
+ *  net.minecraft.network.packet.c2s.play.PlayerActionC2SPacket
+ *  net.minecraft.network.packet.c2s.play.PlayerActionC2SPacket$Action
  *  org.spongepowered.asm.mixin.Mixin
  *  org.spongepowered.asm.mixin.gen.Accessor
  */
 package dev.idhammai.asm.accessors;
 
-import net.minecraft.class_2338;
-import net.minecraft.class_2350;
-import net.minecraft.class_2846;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.math.Direction;
+import net.minecraft.network.packet.c2s.play.PlayerActionC2SPacket;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.gen.Accessor;
 

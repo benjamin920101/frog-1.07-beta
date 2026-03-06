@@ -2,9 +2,9 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_2338
- *  net.minecraft.class_310
- *  net.minecraft.class_3568
+ *  net.minecraft.util.math.BlockPos
+ *  net.minecraft.client.MinecraftClient
+ *  net.minecraft.world.chunk.light.LightingProvider
  *  org.spongepowered.asm.mixin.Mixin
  *  org.spongepowered.asm.mixin.injection.At
  *  org.spongepowered.asm.mixin.injection.Inject
@@ -14,9 +14,9 @@
 package dev.idhammai.asm.mixins;
 
 import dev.idhammai.c.r.q.n.N;
-import net.minecraft.class_2338;
-import net.minecraft.class_310;
-import net.minecraft.class_3568;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.client.MinecraftClient;
+import net.minecraft.world.chunk.light.LightingProvider;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;

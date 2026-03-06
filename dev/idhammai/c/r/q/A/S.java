@@ -2,10 +2,10 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_2338
- *  net.minecraft.class_238
- *  net.minecraft.class_243
- *  net.minecraft.class_4587
+ *  net.minecraft.util.math.BlockPos
+ *  net.minecraft.util.math.Box
+ *  net.minecraft.util.math.Vec3d
+ *  net.minecraft.client.util.math.MatrixStack
  */
 package dev.idhammai.c.r.q.A;
 
@@ -15,10 +15,10 @@ import dev.idhammai.P.A.S.f;
 import dev.idhammai.P.r.K.r;
 import dev.idhammai.P.r.c.R;
 import dev.idhammai.c.r.q.A.i;
-import net.minecraft.class_2338;
-import net.minecraft.class_238;
-import net.minecraft.class_243;
-import net.minecraft.class_4587;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.math.Box;
+import net.minecraft.util.math.Vec3d;
+import net.minecraft.client.util.math.MatrixStack;
 
 class S {
     final i q;

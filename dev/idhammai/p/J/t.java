@@ -2,10 +2,10 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_2338
- *  net.minecraft.class_2596
- *  net.minecraft.class_2620
- *  net.minecraft.class_3532
+ *  net.minecraft.util.math.BlockPos
+ *  net.minecraft.network.packet.Packet
+ *  net.minecraft.network.packet.s2c.play.BlockBreakingProgressS2CPacket
+ *  net.minecraft.util.math.MathHelper
  */
 package dev.idhammai.p.J;
 
@@ -23,10 +23,10 @@ import dev.idhammai.c.r.y;
 import dev.idhammai.p.J.U;
 import java.util.Iterator;
 import java.util.concurrent.ConcurrentHashMap;
-import net.minecraft.class_2338;
-import net.minecraft.class_2596;
-import net.minecraft.class_2620;
-import net.minecraft.class_3532;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.network.packet.Packet;
+import net.minecraft.network.packet.s2c.play.BlockBreakingProgressS2CPacket;
+import net.minecraft.util.math.MathHelper;
 
 public class t
 implements J {

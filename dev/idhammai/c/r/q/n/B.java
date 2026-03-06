@@ -2,16 +2,16 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1657
- *  net.minecraft.class_4587
+ *  net.minecraft.entity.player.PlayerEntity
+ *  net.minecraft.client.util.math.MatrixStack
  */
 package dev.idhammai.c.r.q.n;
 
 import dev.idhammai.P.A.A.k;
 import dev.idhammai.P.A.S.Z;
 import dev.idhammai.c.r.q.n.f;
-import net.minecraft.class_1657;
-import net.minecraft.class_4587;
+import net.minecraft.entity.player.PlayerEntity;
+import net.minecraft.client.util.math.MatrixStack;
 
 class B {
     public final Z c;

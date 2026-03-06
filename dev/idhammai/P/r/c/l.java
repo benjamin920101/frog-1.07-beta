@@ -2,15 +2,15 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1268
- *  net.minecraft.class_1799
- *  net.minecraft.class_4587
+ *  net.minecraft.util.Hand
+ *  net.minecraft.item.ItemStack
+ *  net.minecraft.client.util.math.MatrixStack
  */
 package dev.idhammai.P.r.c;
 
-import net.minecraft.class_1268;
-import net.minecraft.class_1799;
-import net.minecraft.class_4587;
+import net.minecraft.util.Hand;
+import net.minecraft.item.ItemStack;
+import net.minecraft.client.util.math.MatrixStack;
 
 public class l {
     private static final l N = new l();

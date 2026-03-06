@@ -2,16 +2,16 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1293
- *  net.minecraft.class_1294
+ *  net.minecraft.entity.effect.StatusEffectInstance
+ *  net.minecraft.entity.effect.StatusEffects
  */
 package dev.idhammai.P.A.L;
 
 import dev.idhammai.P.A.J;
 import dev.idhammai.asm.accessors.IVec3d;
 import dev.idhammai.c.r.q.D.w;
-import net.minecraft.class_1293;
-import net.minecraft.class_1294;
+import net.minecraft.entity.effect.StatusEffectInstance;
+import net.minecraft.entity.effect.StatusEffects;
 
 public class l
 implements J {

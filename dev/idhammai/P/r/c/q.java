@@ -2,13 +2,13 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1268
+ *  net.minecraft.util.Hand
  */
 package dev.idhammai.P.r.c;
 
 import dev.idhammai.P.r.L;
 import dev.idhammai.P.r.O;
-import net.minecraft.class_1268;
+import net.minecraft.util.Hand;
 
 public class q
 extends L {

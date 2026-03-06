@@ -3,10 +3,10 @@
  * 
  * Could not load the following classes:
  *  com.google.common.collect.Lists
- *  net.minecraft.class_243
- *  net.minecraft.class_2596
- *  net.minecraft.class_2828$class_2829
- *  net.minecraft.class_2828$class_5911
+ *  net.minecraft.util.math.Vec3d
+ *  net.minecraft.network.packet.Packet
+ *  net.minecraft.network.packet.c2s.play.PlayerMoveC2SPacket$PositionAndOnGround
+ *  net.minecraft.network.packet.c2s.play.PlayerMoveC2SPacket$OnGroundOnly
  */
 package dev.idhammai.P.A.R;
 
@@ -16,9 +16,9 @@ import dev.idhammai.P.A.R.n;
 import dev.idhammai.P.A.R.x;
 import dev.idhammai.P.A.R.z;
 import java.util.List;
-import net.minecraft.class_243;
-import net.minecraft.class_2596;
-import net.minecraft.class_2828;
+import net.minecraft.util.math.Vec3d;
+import net.minecraft.network.packet.Packet;
+import net.minecraft.network.packet.c2s.play.PlayerMoveC2SPacket;
 
 public class B
 implements J {

@@ -2,12 +2,12 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_310
+ *  net.minecraft.client.MinecraftClient
  */
 package dev.idhammai.p;
 
 import java.io.File;
-import net.minecraft.class_310;
+import net.minecraft.client.MinecraftClient;
 
 public class R {
     public static final class_310 P = class_310.method_1551();

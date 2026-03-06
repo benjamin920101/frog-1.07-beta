@@ -2,13 +2,13 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1792
+ *  net.minecraft.item.Item
  */
 package dev.idhammai.c.y.u.C;
 
 import java.lang.invoke.MethodHandle;
 import java.lang.runtime.ObjectMethods;
-import net.minecraft.class_1792;
+import net.minecraft.item.Item;
 
 final class i
 extends Record {

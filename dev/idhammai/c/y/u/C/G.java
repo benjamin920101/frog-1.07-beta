@@ -3,7 +3,7 @@
  * 
  * Could not load the following classes:
  *  com.mojang.blaze3d.systems.RenderSystem
- *  net.minecraft.class_332
+ *  net.minecraft.client.gui.DrawContext
  *  org.joml.Matrix4f
  *  org.joml.Matrix4fc
  */
@@ -24,7 +24,7 @@ import dev.idhammai.c.y.u.I.t;
 import dev.idhammai.p.J.n;
 import java.awt.Color;
 import java.util.ArrayList;
-import net.minecraft.class_332;
+import net.minecraft.client.gui.DrawContext;
 import org.joml.Matrix4f;
 import org.joml.Matrix4fc;
 

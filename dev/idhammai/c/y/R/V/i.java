@@ -2,22 +2,22 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_124
- *  net.minecraft.class_310
- *  net.minecraft.class_332
- *  net.minecraft.class_3675
- *  net.minecraft.class_3728
+ *  net.minecraft.util.Formatting
+ *  net.minecraft.client.MinecraftClient
+ *  net.minecraft.client.gui.DrawContext
+ *  net.minecraft.client.util.InputUtil
+ *  net.minecraft.client.util.SelectionManager
  */
 package dev.idhammai.c.y.R.V;
 
 import dev.idhammai.P.A.A.h;
 import dev.idhammai.c.r.O.Y.v;
 import dev.idhammai.c.y.R.V.O;
-import net.minecraft.class_124;
-import net.minecraft.class_310;
-import net.minecraft.class_332;
-import net.minecraft.class_3675;
-import net.minecraft.class_3728;
+import net.minecraft.util.Formatting;
+import net.minecraft.client.MinecraftClient;
+import net.minecraft.client.gui.DrawContext;
+import net.minecraft.client.util.InputUtil;
+import net.minecraft.client.util.SelectionManager;
 
 public class i
 extends O {

@@ -2,17 +2,17 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1268
- *  net.minecraft.class_2885
- *  net.minecraft.class_3965
+ *  net.minecraft.util.Hand
+ *  net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket
+ *  net.minecraft.util.hit.BlockHitResult
  *  org.spongepowered.asm.mixin.Mixin
  *  org.spongepowered.asm.mixin.gen.Accessor
  */
 package dev.idhammai.asm.accessors;
 
-import net.minecraft.class_1268;
-import net.minecraft.class_2885;
-import net.minecraft.class_3965;
+import net.minecraft.util.Hand;
+import net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket;
+import net.minecraft.util.hit.BlockHitResult;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.gen.Accessor;
 

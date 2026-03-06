@@ -2,13 +2,13 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_243
+ *  net.minecraft.util.math.Vec3d
  */
 package dev.idhammai.P.A.A;
 
 import java.lang.invoke.MethodHandle;
 import java.lang.runtime.ObjectMethods;
-import net.minecraft.class_243;
+import net.minecraft.util.math.Vec3d;
 
 public final class i
 extends Record {

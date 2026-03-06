@@ -2,11 +2,11 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_2338
+ *  net.minecraft.util.math.BlockPos
  */
 package dev.idhammai.P.r.c;
 
-import net.minecraft.class_2338;
+import net.minecraft.util.math.BlockPos;
 
 public class g {
     private static final g X = new g();

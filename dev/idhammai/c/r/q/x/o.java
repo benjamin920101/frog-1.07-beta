@@ -3,9 +3,9 @@
  * 
  * Could not load the following classes:
  *  com.mojang.authlib.GameProfile
- *  net.minecraft.class_1297
- *  net.minecraft.class_1657
- *  net.minecraft.class_745
+ *  net.minecraft.entity.Entity
+ *  net.minecraft.entity.player.PlayerEntity
+ *  net.minecraft.client.network.OtherClientPlayerEntity
  */
 package dev.idhammai.c.r.q.x;
 
@@ -13,9 +13,9 @@ import com.mojang.authlib.GameProfile;
 import dev.idhammai.P.A.J;
 import dev.idhammai.asm.accessors.ILivingEntity;
 import java.util.UUID;
-import net.minecraft.class_1297;
-import net.minecraft.class_1657;
-import net.minecraft.class_745;
+import net.minecraft.entity.Entity;
+import net.minecraft.entity.player.PlayerEntity;
+import net.minecraft.client.network.OtherClientPlayerEntity;
 
 public class o
 extends class_745 {

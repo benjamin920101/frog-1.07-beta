@@ -2,21 +2,21 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1291
- *  net.minecraft.class_1293
- *  net.minecraft.class_1657
- *  net.minecraft.class_1713
- *  net.minecraft.class_1747
- *  net.minecraft.class_1792
- *  net.minecraft.class_1799
- *  net.minecraft.class_1802
- *  net.minecraft.class_1844
- *  net.minecraft.class_2246
- *  net.minecraft.class_2248
- *  net.minecraft.class_2596
- *  net.minecraft.class_2838
- *  net.minecraft.class_2868
- *  net.minecraft.class_9334
+ *  net.minecraft.entity.effect.StatusEffect
+ *  net.minecraft.entity.effect.StatusEffectInstance
+ *  net.minecraft.entity.player.PlayerEntity
+ *  net.minecraft.screen.slot.SlotActionType
+ *  net.minecraft.item.BlockItem
+ *  net.minecraft.item.Item
+ *  net.minecraft.item.ItemStack
+ *  net.minecraft.item.Items
+ *  net.minecraft.component.type.PotionContentsComponent
+ *  net.minecraft.block.Blocks
+ *  net.minecraft.block.Block
+ *  net.minecraft.network.packet.Packet
+ *  net.minecraft.network.packet.c2s.play.PickFromInventoryC2SPacket
+ *  net.minecraft.network.packet.c2s.play.UpdateSelectedSlotC2SPacket
+ *  net.minecraft.component.DataComponentTypes
  */
 package dev.idhammai.P.A.L;
 
@@ -26,21 +26,21 @@ import dev.idhammai.P.A.l.M;
 import dev.idhammai.c.r.q.N.x;
 import java.util.HashMap;
 import java.util.Map;
-import net.minecraft.class_1291;
-import net.minecraft.class_1293;
-import net.minecraft.class_1657;
-import net.minecraft.class_1713;
-import net.minecraft.class_1747;
-import net.minecraft.class_1792;
-import net.minecraft.class_1799;
-import net.minecraft.class_1802;
-import net.minecraft.class_1844;
-import net.minecraft.class_2246;
-import net.minecraft.class_2248;
-import net.minecraft.class_2596;
-import net.minecraft.class_2838;
-import net.minecraft.class_2868;
-import net.minecraft.class_9334;
+import net.minecraft.entity.effect.StatusEffect;
+import net.minecraft.entity.effect.StatusEffectInstance;
+import net.minecraft.entity.player.PlayerEntity;
+import net.minecraft.screen.slot.SlotActionType;
+import net.minecraft.item.BlockItem;
+import net.minecraft.item.Item;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.Items;
+import net.minecraft.component.type.PotionContentsComponent;
+import net.minecraft.block.Blocks;
+import net.minecraft.block.Block;
+import net.minecraft.network.packet.Packet;
+import net.minecraft.network.packet.c2s.play.PickFromInventoryC2SPacket;
+import net.minecraft.network.packet.c2s.play.UpdateSelectedSlotC2SPacket;
+import net.minecraft.component.DataComponentTypes;
 
 public class g
 implements J {

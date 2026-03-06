@@ -2,12 +2,12 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_703
+ *  net.minecraft.client.particle.Particle
  */
 package dev.idhammai.P.r.c;
 
 import dev.idhammai.P.r.L;
-import net.minecraft.class_703;
+import net.minecraft.client.particle.Particle;
 
 public class p
 extends L {

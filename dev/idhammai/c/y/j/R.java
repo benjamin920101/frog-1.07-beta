@@ -2,8 +2,8 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_310
- *  net.minecraft.class_332
+ *  net.minecraft.client.MinecraftClient
+ *  net.minecraft.client.gui.DrawContext
  */
 package dev.idhammai.c.y.j;
 
@@ -11,8 +11,8 @@ import dev.idhammai.P.A.S.o;
 import dev.idhammai.c.y.y.i;
 import dev.idhammai.p.J.n;
 import java.awt.Color;
-import net.minecraft.class_310;
-import net.minecraft.class_332;
+import net.minecraft.client.MinecraftClient;
+import net.minecraft.client.gui.DrawContext;
 
 public class R {
     public int K;

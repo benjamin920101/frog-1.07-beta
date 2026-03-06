@@ -2,9 +2,9 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_2960
- *  net.minecraft.class_310
- *  net.minecraft.class_3298
+ *  net.minecraft.util.Identifier
+ *  net.minecraft.client.MinecraftClient
+ *  net.minecraft.resource.Resource
  *  org.joml.Matrix4f
  *  org.lwjgl.opengl.GL20
  *  org.lwjgl.system.MemoryStack
@@ -16,9 +16,9 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.nio.FloatBuffer;
 import java.nio.charset.StandardCharsets;
-import net.minecraft.class_2960;
-import net.minecraft.class_310;
-import net.minecraft.class_3298;
+import net.minecraft.util.Identifier;
+import net.minecraft.client.MinecraftClient;
+import net.minecraft.resource.Resource;
 import org.joml.Matrix4f;
 import org.lwjgl.opengl.GL20;
 import org.lwjgl.system.MemoryStack;

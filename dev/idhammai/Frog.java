@@ -3,7 +3,7 @@
  * 
  * Could not load the following classes:
  *  net.fabricmc.api.ModInitializer
- *  net.minecraft.class_310
+ *  net.minecraft.client.MinecraftClient
  */
 package dev.idhammai;
 
@@ -35,7 +35,7 @@ import java.lang.invoke.MethodHandles;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import net.fabricmc.api.ModInitializer;
-import net.minecraft.class_310;
+import net.minecraft.client.MinecraftClient;
 
 public class Frog
 implements ModInitializer {

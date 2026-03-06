@@ -2,12 +2,12 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_1657
+ *  net.minecraft.entity.player.PlayerEntity
  */
 package dev.idhammai.P.A.N;
 
 import dev.idhammai.P.A.N.O;
-import net.minecraft.class_1657;
+import net.minecraft.entity.player.PlayerEntity;
 
 public class s {
     public final class_1657 M;

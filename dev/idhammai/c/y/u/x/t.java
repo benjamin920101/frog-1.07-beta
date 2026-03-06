@@ -2,8 +2,8 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_332
- *  net.minecraft.class_4587
+ *  net.minecraft.client.gui.DrawContext
+ *  net.minecraft.client.util.math.MatrixStack
  */
 package dev.idhammai.c.y.u.x;
 
@@ -16,8 +16,8 @@ import dev.idhammai.p.J.n;
 import java.awt.Color;
 import java.util.ArrayList;
 import java.util.Random;
-import net.minecraft.class_332;
-import net.minecraft.class_4587;
+import net.minecraft.client.gui.DrawContext;
+import net.minecraft.client.util.math.MatrixStack;
 
 public final class t {
     private final Random y = new Random();

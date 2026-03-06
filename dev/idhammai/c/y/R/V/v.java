@@ -2,9 +2,9 @@
  * Decompiled with CFR 0.152.
  * 
  * Could not load the following classes:
- *  net.minecraft.class_332
- *  net.minecraft.class_3675
- *  net.minecraft.class_7833
+ *  net.minecraft.client.gui.DrawContext
+ *  net.minecraft.client.util.InputUtil
+ *  net.minecraft.util.math.RotationAxis
  *  org.joml.Matrix4f
  *  org.joml.Matrix4fc
  */
@@ -22,9 +22,9 @@ import dev.idhammai.c.y.R.V.T;
 import dev.idhammai.c.y.u.C.K;
 import dev.idhammai.c.y.u.I.t;
 import java.awt.Color;
-import net.minecraft.class_332;
-import net.minecraft.class_3675;
-import net.minecraft.class_7833;
+import net.minecraft.client.gui.DrawContext;
+import net.minecraft.client.util.InputUtil;
+import net.minecraft.util.math.RotationAxis;
 import org.joml.Matrix4f;
 import org.joml.Matrix4fc;
 
